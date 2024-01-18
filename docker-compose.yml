@@ -1,7 +1,7 @@
 version: '3'
 
 services:
-  flamingo.custom.uis:
+  react.webpack.template:
     build: .
     restart: unless-stopped
     ports:
